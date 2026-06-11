@@ -16,7 +16,7 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 - Authentication Event Analysis
 
 
-  ## Technology Stack
+## Technology Stack
 
 | Component | Purpose |
 |------------|---------|
