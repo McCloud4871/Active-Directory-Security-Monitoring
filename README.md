@@ -34,18 +34,21 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### Network Architecture
 
-[screenshot]
+<img width="940" height="940" alt="image" src="https://github.com/user-attachments/assets/3c9c8d28-bc8c-4b50-9413-ff8dbf3dcc46" />
+
 
 ### Virtual Machines
 
-[screenshot]
+<img width="823" height="463" alt="image" src="https://github.com/user-attachments/assets/4741c079-a692-4ddf-8c18-8d1eaaeca396" />
+
 
 
 ## Phase 2 - Configure Splunk Monitoring
 
 ### Sysmon Deployment
 
-[screenshot]
+<img width="940" height="358" alt="image" src="https://github.com/user-attachments/assets/f00de269-5e02-4184-822b-ad63b3b15476" />
+
 
 ### Splunk Universal Forwarder Configuration
 
@@ -53,18 +56,21 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### Endpoint Log Collection
 
-[screenshot]
+<img width="901" height="684" alt="image" src="https://github.com/user-attachments/assets/cb8c36c1-028a-4ff7-bee0-39ce2b9ac88c" />
+
 
 
 ## Phase 3 - Active Directory Deployment
 
 ### Domain Controller Installation
 
-[screenshot]
+<img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/ba342bab-8976-4bd9-9532-040216398052" />
+
 
 ### Organisational Units
 
-[screenshot]
+<img width="940" height="616" alt="image" src="https://github.com/user-attachments/assets/cc7d928c-ab1f-4109-ad3a-64dc914e4247" />
+
 
 ### Domain Join Validation
 
@@ -75,7 +81,8 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### Hydra Brute Force Attack
 
-[screenshot]
+<img width="940" height="875" alt="image" src="https://github.com/user-attachments/assets/d2f54688-f897-4ffc-b9f9-a5ca295a5d3b" />
+
 
 ### Splunk Detection Results
 
@@ -90,7 +97,8 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### Telemetry Collection
 
-[screenshot]
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/5899300d-e351-4215-9339-2a1c9fede170" />
+
 
 
 
