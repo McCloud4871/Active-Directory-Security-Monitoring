@@ -1,5 +1,5 @@
 # Active-Directory-Lab
-
+Built a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The project demonstrates centralized log collection, Active Directory administration, attack simulation, and security monitoring using Splunk.
 ## Skills Demonstrated
 
 - Active Directory Administration
