@@ -86,7 +86,10 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### Splunk Detection Results
 
-[screenshot]
+<img width="940" height="674" alt="image" src="https://github.com/user-attachments/assets/11da6196-0920-40d6-b350-a177f510d06e" />
+<img width="940" height="670" alt="image" src="https://github.com/user-attachments/assets/1e3915c2-63d8-4fe2-9105-b26f77fdf939" />
+<img width="940" height="714" alt="image" src="https://github.com/user-attachments/assets/2153a11c-3b79-4e89-91fd-543ba60091cb" />
+
 
 
 ## Phase 5 - Atomic Red Team Testing
