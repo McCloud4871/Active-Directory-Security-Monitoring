@@ -51,8 +51,10 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 
 ### Splunk Universal Forwarder Configuration
+This is the inputs.conf configuration used by the Splunk Universal Forwarder to send Application, Security, System, and Sysmon logs to the endpoint index.
+<img width="1121" height="341" alt="image" src="https://github.com/user-attachments/assets/b91ff3b2-0205-45cf-9c2d-52ff9e236f01" />
 
-[screenshot]
+
 
 ### Endpoint Log Collection
 
