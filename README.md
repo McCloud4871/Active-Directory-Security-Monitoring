@@ -93,7 +93,9 @@ Built a virtual enterprise lab environment consisting of Active Directory, Windo
 
 ### MITRE ATT&CK Simulation
 
-[screenshot]
+<img width="870" height="577" alt="image" src="https://github.com/user-attachments/assets/e7d8ccd0-437d-493b-a3c4-b3259667023c" />
+<img width="888" height="713" alt="image" src="https://github.com/user-attachments/assets/77370e55-5bce-4db8-9529-fc13775ea51c" />
+
 
 ### Telemetry Collection
 
