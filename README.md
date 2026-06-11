@@ -76,7 +76,8 @@ This is the inputs.conf configuration used by the Splunk Universal Forwarder to 
 
 ### Domain Join Validation
 
-[screenshot]
+<img width="978" height="414" alt="image" src="https://github.com/user-attachments/assets/5d2d6c99-8e3e-4afe-8694-89af6d447d0a" />
+
 
 
 ## Phase 4 - Attack Simulation and Detection
