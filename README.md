@@ -2,7 +2,7 @@
 ## Project Overview
 Build a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The project demonstrates centralised log collection, Active Directory administration, attack simulation, and security monitoring using Splunk.
 
-> Designed and implemented a virtual enterprise security lab consisting of Active Directory, Splunk Enterprise, Sysmon, Kali Linux, and Atomic Red Team. The environment was used to centralise log collection, monitor authentication activity, simulate attacks, and investigate security events using SIEM technologies.
+> I designed and implemented a virtual enterprise security lab consisting of Active Directory, Splunk Enterprise, Sysmon, Kali Linux, and Atomic Red Team. The environment was used to centralise log collection, monitor authentication activity, simulate attacks, and investigate security events using SIEM technologies.
 ## Skills Demonstrated
 
 - Active Directory Administration
