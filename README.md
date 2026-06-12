@@ -139,16 +139,13 @@ MITRE ATT&CK technique T1136.001 (Create Local Account) was executed using Atomi
 - Created organisational units and user accounts to simulate an enterprise environment.
 - Joined a Windows 10 endpoint to the domain and validated authentication functionality.
 - Configured Sysmon and centralized log collection for security monitoring.
-- Simulated brute-force authentication attacks using Kali Linux and Hydra.
 - Generated and analyzed attack telemetry using Atomic Red Team and MITRE ATT&CK techniques.
 
 ## Lessons Learned
 
-- Configured centralized log collection using Splunk Universal Forwarders.
+- Configure centralized log collection using Splunk Universal Forwarders.
 - Learned how Sysmon improves Windows visibility beyond native logging.
-- Built and administered an Active Directory domain environment.
-- Simulated brute force attacks using Kali Linux and Hydra.
-- Mapped Atomic Red Team activity to MITRE ATT&CK techniques.
-- Investigated Windows security events using Splunk searches.
+- How to Build and administer an Active Directory domain environment.
+- Investigating Windows security events using Splunk searches.
 
   
