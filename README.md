@@ -1,8 +1,6 @@
 # Active Directory Security Monitoring Lab
 ## Project Overview
-Build a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The project demonstrates centralised log collection, Active Directory administration, attack simulation, and security monitoring using Splunk.
-
-> I designed and implemented a virtual enterprise security lab consisting of Active Directory, Splunk Enterprise, Sysmon, Kali Linux, and Atomic Red Team. The environment was used to centralise log collection, monitor authentication activity, simulate attacks, and investigate security events using SIEM technologies.
+Built a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The environment was designed to simulate a corporate Windows domain where user management, endpoint monitoring, attack simulation, and security event analysis could be performed. Security telemetry was collected using Sysmon and forwarded to Splunk for investigation of authentication events, brute-force activity, and Atomic Red Team attack simulations.
 ## Skills Demonstrated
 
 - Active Directory Administration
@@ -114,7 +112,7 @@ This is the inputs.conf configuration used by the Splunk Universal Forwarder to 
 ## Project Outcomes
 
 - Built a functional Active Directory domain environment.
-- Configured centralized log collection using Splunk Enterprise.
+- Implemented centralized logging for Windows endpoints and domain infrastructure.
 - Deployed Sysmon to enhance endpoint visibility.
 - Forwarded Windows Security, Application, System, and Sysmon logs to Splunk.
 - Simulated brute-force attacks using Hydra from Kali Linux.
@@ -133,8 +131,16 @@ Event ID 4624 confirmed successful authentication after Hydra discovered the val
 
 ### Atomic Red Team Detection
 
-MITRE ATT&CK technique T1136.001 (Create Local Account) generated telemetry that was successfully collected and searched within Splunk.
+MITRE ATT&CK technique T1136.001 (Create Local Account) was executed using Atomic Red Team. The resulting telemetry was successfully collected and analyzed, demonstrating the ability to identify account creation activity within the environment.
 
+## Key Achievements
+
+- Built and configured an Active Directory Domain Controller using Windows Server 2022.
+- Created organisational units and user accounts to simulate an enterprise environment.
+- Joined a Windows 10 endpoint to the domain and validated authentication functionality.
+- Configured Sysmon and centralized log collection for security monitoring.
+- Simulated brute-force authentication attacks using Kali Linux and Hydra.
+- Generated and analyzed attack telemetry using Atomic Red Team and MITRE ATT&CK techniques.
 
 ## Lessons Learned
 
