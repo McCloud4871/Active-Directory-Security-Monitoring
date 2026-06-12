@@ -1,20 +1,22 @@
 # Active Directory Security Monitoring Lab
 ## Project Overview
-Build a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The project demonstrates centralized log collection, Active Directory administration, attack simulation, and security monitoring using Splunk.
+Build a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The project demonstrates centralised log collection, Active Directory administration, attack simulation, and security monitoring using Splunk.
+
+> Designed and implemented a virtual enterprise security lab consisting of Active Directory, Splunk Enterprise, Sysmon, Kali Linux, and Atomic Red Team. The environment was used to centralise log collection, monitor authentication activity, simulate attacks, and investigate security events using SIEM technologies.
 ## Skills Demonstrated
 
 - Active Directory Administration
-- Windows Server 2022
-- Splunk Enterprise
-- Splunk Universal Forwarder
-- Sysmon Configuration
+- Security Information and Event Management (SIEM)
+- Log Collection and Analysis
+- Endpoint Monitoring
+- Threat Detection and Investigation
 - Windows Event Logging
-- VirtualBox Networking
-- Security Monitoring
-- Threat Detection
-- MITRE ATT&CK
-- Atomic Red Team
-- Authentication Event Analysis
+- Security Event Correlation
+- Authentication Analysis
+- MITRE ATT&CK Mapping
+- Attack Simulation
+- Network Configuration
+- Incident Monitoring
 
 
 ## Technology Stack
@@ -81,7 +83,7 @@ This is the inputs.conf configuration used by the Splunk Universal Forwarder to 
 
 
 
-## Phase 4 - Attack Simulation and Detection
+## Phase 4 - Threat Simulation and Security Monitoring
 
 ### Hydra Brute Force Attack
 
@@ -109,7 +111,15 @@ This is the inputs.conf configuration used by the Splunk Universal Forwarder to 
 <img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/5899300d-e351-4215-9339-2a1c9fede170" />
 
 
+## Project Outcomes
 
+- Built a functional Active Directory domain environment.
+- Configured centralized log collection using Splunk Enterprise.
+- Deployed Sysmon to enhance endpoint visibility.
+- Forwarded Windows Security, Application, System, and Sysmon logs to Splunk.
+- Simulated brute-force attacks using Hydra from Kali Linux.
+- Investigated failed and successful authentication events.
+- Generated and analyzed attack telemetry using Atomic Red Team.
 
 ## Security Findings
 
