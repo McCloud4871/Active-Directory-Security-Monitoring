@@ -1,4 +1,4 @@
-# Active Directory Security Monitoring Lab
+# Active Directory Security Monitoring 
 ## Project Overview
 Built a virtual enterprise lab environment consisting of Active Directory, Windows 10, Splunk Enterprise, Kali Linux, Sysmon, and Splunk Universal Forwarders. The environment was designed to simulate a corporate Windows domain where user management, endpoint monitoring, attack simulation, and security event analysis could be performed. Security telemetry was collected using Sysmon and forwarded to Splunk for investigation of authentication events, brute-force activity, and Atomic Red Team attack simulations.
 ## Skills Demonstrated
